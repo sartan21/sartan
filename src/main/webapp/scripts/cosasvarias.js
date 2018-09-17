@@ -16,12 +16,13 @@ function operaciones(op)
 
         dividir: function dividirNumeros(n1, n2) {
             
-			return (Math.round(Math.random()*40))+20;
-
-        
+			do {
+  i += 1;
+			return (Math.round(Math.random()*10000))+20;   
+} while (i < 5);
 			
-			
-        }
+ 
+      }
 
 
     };
