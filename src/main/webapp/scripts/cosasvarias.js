@@ -69,3 +69,8 @@ function operaciones(op)
     }
 
 }
+
+function operaciones2()
+{
+					var resultado = (Math.round(Math.random()*10000))+20;   
+}	

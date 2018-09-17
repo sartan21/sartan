@@ -3,9 +3,8 @@
 <script src="scripts/jquery-1.11.2.min.js"></script>
 <script src="scripts/cosasvarias.js"></script>
 </head>
-<body>
+<body onload="operaciones2()">
 <h2>Hello World with OpenShift! Prueba cambio222222!!!!</h2>
-
 <!-- <input id="val1" onkeyup="cargador()" />  -->
 
 <form>
