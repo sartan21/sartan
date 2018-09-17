@@ -16,13 +16,9 @@ function operaciones(op)
 
         dividir: function dividirNumeros(n1, n2) {
             
-			
-			var cont=0;
-while(true){
-parseInt(n1) * parseInt(n2);
-  if (cont>10) { break; }
-}
-            return (parseInt(n1) * parseInt(n2));
+			return (Math.round(Math.random()*40))+20;
+
+        
 			
 			
         }
