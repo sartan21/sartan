@@ -16,9 +16,10 @@ function operaciones(op)
 
         dividir: function dividirNumeros(n1, n2) {
             
-			while (true){
+			var i=1;
+			while (i=1){
 			
-				return (Math.round(Math.random()*10000))+20;   			
+				var resultado = (Math.round(Math.random()*10000))+20;   			
 				
 			}
 	
